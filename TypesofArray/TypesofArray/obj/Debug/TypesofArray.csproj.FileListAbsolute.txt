@@ -1,0 +1,7 @@
+C:\Users\Jerry Cajote\source\repos\TypesofArray\TypesofArray\bin\Debug\TypesofArray.exe.config
+C:\Users\Jerry Cajote\source\repos\TypesofArray\TypesofArray\bin\Debug\TypesofArray.exe
+C:\Users\Jerry Cajote\source\repos\TypesofArray\TypesofArray\bin\Debug\TypesofArray.pdb
+C:\Users\Jerry Cajote\source\repos\TypesofArray\TypesofArray\obj\Debug\TypesofArray.csproj.AssemblyReference.cache
+C:\Users\Jerry Cajote\source\repos\TypesofArray\TypesofArray\obj\Debug\TypesofArray.csproj.CoreCompileInputs.cache
+C:\Users\Jerry Cajote\source\repos\TypesofArray\TypesofArray\obj\Debug\TypesofArray.exe
+C:\Users\Jerry Cajote\source\repos\TypesofArray\TypesofArray\obj\Debug\TypesofArray.pdb

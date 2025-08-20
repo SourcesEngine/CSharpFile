@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jerry Cajote\\source\\repos\\MessengerProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1931BDB9-8C18-4585-A3A9-A0764E41C585}|MessengerApp\\MessengerApp.csproj|c:\\users\\jerry cajote\\source\\repos\\messengerprogram\\messengerapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1931BDB9-8C18-4585-A3A9-A0764E41C585}|MessengerApp\\MessengerApp.csproj|solutionrelative:messengerapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1931BDB9-8C18-4585-A3A9-A0764E41C585}|MessengerApp\\MessengerApp.csproj|c:\\users\\jerry cajote\\source\\repos\\messengerprogram\\messengerapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1931BDB9-8C18-4585-A3A9-A0764E41C585}|MessengerApp\\MessengerApp.csproj|solutionrelative:messengerapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1931BDB9-8C18-4585-A3A9-A0764E41C585}|MessengerApp\\MessengerApp.csproj|c:\\users\\jerry cajote\\source\\repos\\messengerprogram\\messengerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1931BDB9-8C18-4585-A3A9-A0764E41C585}|MessengerApp\\MessengerApp.csproj|solutionrelative:messengerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\MessengerProgram\\MessengerApp\\Form1.cs",
+              "RelativeDocumentMoniker": "MessengerApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\MessengerProgram\\MessengerApp\\Form1.cs",
+              "RelativeToolTip": "MessengerApp\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T12:00:15.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\MessengerProgram\\MessengerApp\\Program.cs",
+              "RelativeDocumentMoniker": "MessengerApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\MessengerProgram\\MessengerApp\\Program.cs",
+              "RelativeToolTip": "MessengerApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T11:56:51.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\MessengerProgram\\MessengerApp\\Form1.cs",
+              "RelativeDocumentMoniker": "MessengerApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\MessengerProgram\\MessengerApp\\Form1.cs [Design]",
+              "RelativeToolTip": "MessengerApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T11:56:04.385Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

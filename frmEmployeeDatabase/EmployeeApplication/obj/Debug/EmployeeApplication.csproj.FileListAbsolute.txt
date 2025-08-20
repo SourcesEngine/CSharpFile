@@ -1,0 +1,10 @@
+C:\Users\Jerry Cajote\source\repos\frmEmployeeDatabase\EmployeeApplication\bin\Debug\EmployeeApplication.exe.config
+C:\Users\Jerry Cajote\source\repos\frmEmployeeDatabase\EmployeeApplication\bin\Debug\EmployeeApplication.exe
+C:\Users\Jerry Cajote\source\repos\frmEmployeeDatabase\EmployeeApplication\bin\Debug\EmployeeApplication.pdb
+C:\Users\Jerry Cajote\source\repos\frmEmployeeDatabase\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.AssemblyReference.cache
+C:\Users\Jerry Cajote\source\repos\frmEmployeeDatabase\EmployeeApplication\obj\Debug\EmployeeApplication.Form1.resources
+C:\Users\Jerry Cajote\source\repos\frmEmployeeDatabase\EmployeeApplication\obj\Debug\EmployeeApplication.Properties.Resources.resources
+C:\Users\Jerry Cajote\source\repos\frmEmployeeDatabase\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.GenerateResource.cache
+C:\Users\Jerry Cajote\source\repos\frmEmployeeDatabase\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.CoreCompileInputs.cache
+C:\Users\Jerry Cajote\source\repos\frmEmployeeDatabase\EmployeeApplication\obj\Debug\EmployeeApplication.exe
+C:\Users\Jerry Cajote\source\repos\frmEmployeeDatabase\EmployeeApplication\obj\Debug\EmployeeApplication.pdb

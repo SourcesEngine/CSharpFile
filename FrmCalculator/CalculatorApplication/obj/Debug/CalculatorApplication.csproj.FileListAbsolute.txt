@@ -1,0 +1,11 @@
+C:\Users\Jerry Cajote\source\repos\FrmCalculator\CalculatorApplication\bin\Debug\CalculatorApplication.exe.config
+C:\Users\Jerry Cajote\source\repos\FrmCalculator\CalculatorApplication\bin\Debug\CalculatorApplication.exe
+C:\Users\Jerry Cajote\source\repos\FrmCalculator\CalculatorApplication\bin\Debug\CalculatorApplication.pdb
+C:\Users\Jerry Cajote\source\repos\FrmCalculator\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.AssemblyReference.cache
+C:\Users\Jerry Cajote\source\repos\FrmCalculator\CalculatorApplication\obj\Debug\CalculatorApplication.FrmCalculator.resources
+C:\Users\Jerry Cajote\source\repos\FrmCalculator\CalculatorApplication\obj\Debug\CalculatorApplication.Properties.Resources.resources
+C:\Users\Jerry Cajote\source\repos\FrmCalculator\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.GenerateResource.cache
+C:\Users\Jerry Cajote\source\repos\FrmCalculator\CalculatorApplication\obj\Debug\CalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\Jerry Cajote\source\repos\FrmCalculator\CalculatorApplication\obj\Debug\CalculatorApplication.exe
+C:\Users\Jerry Cajote\source\repos\FrmCalculator\CalculatorApplication\obj\Debug\CalculatorApplication.pdb
+C:\Users\Jerry Cajote\source\repos\FrmCalculator\CalculatorApplication\obj\Debug\CalculatorApplication.exe.config

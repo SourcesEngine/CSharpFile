@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jerry Cajote\\source\\repos\\frmPurchaseDiscountedItem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{579C1017-2B94-41A7-9343-9F7F1A34075D}|CashierApplication\\CashierApplication.csproj|c:\\users\\jerry cajote\\source\\repos\\frmpurchasediscounteditem\\cashierapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579C1017-2B94-41A7-9343-9F7F1A34075D}|CashierApplication\\CashierApplication.csproj|solutionrelative:cashierapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579C1017-2B94-41A7-9343-9F7F1A34075D}|CashierApplication\\CashierApplication.csproj|c:\\users\\jerry cajote\\source\\repos\\frmpurchasediscounteditem\\cashierapplication\\itemnamespace\\discounteditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579C1017-2B94-41A7-9343-9F7F1A34075D}|CashierApplication\\CashierApplication.csproj|solutionrelative:cashierapplication\\itemnamespace\\discounteditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579C1017-2B94-41A7-9343-9F7F1A34075D}|CashierApplication\\CashierApplication.csproj|c:\\users\\jerry cajote\\source\\repos\\frmpurchasediscounteditem\\cashierapplication\\itemnamespace\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579C1017-2B94-41A7-9343-9F7F1A34075D}|CashierApplication\\CashierApplication.csproj|solutionrelative:cashierapplication\\itemnamespace\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579C1017-2B94-41A7-9343-9F7F1A34075D}|CashierApplication\\CashierApplication.csproj|c:\\users\\jerry cajote\\source\\repos\\frmpurchasediscounteditem\\cashierapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{579C1017-2B94-41A7-9343-9F7F1A34075D}|CashierApplication\\CashierApplication.csproj|solutionrelative:cashierapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\frmPurchaseDiscountedItem\\CashierApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "CashierApplication\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\frmPurchaseDiscountedItem\\CashierApplication\\Form1.cs",
+              "RelativeToolTip": "CashierApplication\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:07:44.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiscountedItem.cs",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\frmPurchaseDiscountedItem\\CashierApplication\\ItemNamespace\\DiscountedItem.cs",
+              "RelativeDocumentMoniker": "CashierApplication\\ItemNamespace\\DiscountedItem.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\frmPurchaseDiscountedItem\\CashierApplication\\ItemNamespace\\DiscountedItem.cs",
+              "RelativeToolTip": "CashierApplication\\ItemNamespace\\DiscountedItem.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:34:15.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\frmPurchaseDiscountedItem\\CashierApplication\\ItemNamespace\\Item.cs",
+              "RelativeDocumentMoniker": "CashierApplication\\ItemNamespace\\Item.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\frmPurchaseDiscountedItem\\CashierApplication\\ItemNamespace\\Item.cs",
+              "RelativeToolTip": "CashierApplication\\ItemNamespace\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T22:32:40.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\frmPurchaseDiscountedItem\\CashierApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "CashierApplication\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\frmPurchaseDiscountedItem\\CashierApplication\\Form1.cs [Design]",
+              "RelativeToolTip": "CashierApplication\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T13:58:58.681Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\Jerry Cajote\source\repos\frmStudentInfo\StudentInfoApplication\bin\Debug\StudentInfoApplication.exe.config
+C:\Users\Jerry Cajote\source\repos\frmStudentInfo\StudentInfoApplication\bin\Debug\StudentInfoApplication.exe
+C:\Users\Jerry Cajote\source\repos\frmStudentInfo\StudentInfoApplication\bin\Debug\StudentInfoApplication.pdb
+C:\Users\Jerry Cajote\source\repos\frmStudentInfo\StudentInfoApplication\obj\Debug\StudentInfoApplication.csproj.AssemblyReference.cache
+C:\Users\Jerry Cajote\source\repos\frmStudentInfo\StudentInfoApplication\obj\Debug\StudentInfoApplication.Form1.resources
+C:\Users\Jerry Cajote\source\repos\frmStudentInfo\StudentInfoApplication\obj\Debug\StudentInfoApplication.Properties.Resources.resources
+C:\Users\Jerry Cajote\source\repos\frmStudentInfo\StudentInfoApplication\obj\Debug\StudentInfoApplication.csproj.GenerateResource.cache
+C:\Users\Jerry Cajote\source\repos\frmStudentInfo\StudentInfoApplication\obj\Debug\StudentInfoApplication.csproj.CoreCompileInputs.cache
+C:\Users\Jerry Cajote\source\repos\frmStudentInfo\StudentInfoApplication\obj\Debug\StudentInfoApplication.exe
+C:\Users\Jerry Cajote\source\repos\frmStudentInfo\StudentInfoApplication\obj\Debug\StudentInfoApplication.pdb

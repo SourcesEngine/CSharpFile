@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jerry Cajote\\source\\repos\\QueuingForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58242076-5138-4164-99B5-957C4BC87CF2}|Queuing\\Queuing.csproj|c:\\users\\jerry cajote\\source\\repos\\queuingform\\queuing\\cashierwindowqueueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58242076-5138-4164-99B5-957C4BC87CF2}|Queuing\\Queuing.csproj|solutionrelative:queuing\\cashierwindowqueueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58242076-5138-4164-99B5-957C4BC87CF2}|Queuing\\Queuing.csproj|c:\\users\\jerry cajote\\source\\repos\\queuingform\\queuing\\customerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58242076-5138-4164-99B5-957C4BC87CF2}|Queuing\\Queuing.csproj|solutionrelative:queuing\\customerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58242076-5138-4164-99B5-957C4BC87CF2}|Queuing\\Queuing.csproj|c:\\users\\jerry cajote\\source\\repos\\queuingform\\queuing\\customerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58242076-5138-4164-99B5-957C4BC87CF2}|Queuing\\Queuing.csproj|solutionrelative:queuing\\customerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58242076-5138-4164-99B5-957C4BC87CF2}|Queuing\\Queuing.csproj|c:\\users\\jerry cajote\\source\\repos\\queuingform\\queuing\\queuingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58242076-5138-4164-99B5-957C4BC87CF2}|Queuing\\Queuing.csproj|solutionrelative:queuing\\queuingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58242076-5138-4164-99B5-957C4BC87CF2}|Queuing\\Queuing.csproj|c:\\users\\jerry cajote\\source\\repos\\queuingform\\queuing\\cashierclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58242076-5138-4164-99B5-957C4BC87CF2}|Queuing\\Queuing.csproj|solutionrelative:queuing\\cashierclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58242076-5138-4164-99B5-957C4BC87CF2}|Queuing\\Queuing.csproj|c:\\users\\jerry cajote\\source\\repos\\queuingform\\queuing\\queuingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58242076-5138-4164-99B5-957C4BC87CF2}|Queuing\\Queuing.csproj|solutionrelative:queuing\\queuingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58242076-5138-4164-99B5-957C4BC87CF2}|Queuing\\Queuing.csproj|c:\\users\\jerry cajote\\source\\repos\\queuingform\\queuing\\cashierwindowqueueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{58242076-5138-4164-99B5-957C4BC87CF2}|Queuing\\Queuing.csproj|solutionrelative:queuing\\cashierwindowqueueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerView.cs",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\QueuingForm\\Queuing\\CustomerView.cs",
+              "RelativeDocumentMoniker": "Queuing\\CustomerView.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\QueuingForm\\Queuing\\CustomerView.cs",
+              "RelativeToolTip": "Queuing\\CustomerView.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T07:43:35.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\QueuingForm\\Queuing\\CustomerView.cs",
+              "RelativeDocumentMoniker": "Queuing\\CustomerView.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\QueuingForm\\Queuing\\CustomerView.cs [Design]",
+              "RelativeToolTip": "Queuing\\CustomerView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T07:43:26.953Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CashierWindowQueueForm.cs",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\QueuingForm\\Queuing\\CashierWindowQueueForm.cs",
+              "RelativeDocumentMoniker": "Queuing\\CashierWindowQueueForm.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\QueuingForm\\Queuing\\CashierWindowQueueForm.cs",
+              "RelativeToolTip": "Queuing\\CashierWindowQueueForm.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:08:52.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CashierWindowQueueForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\QueuingForm\\Queuing\\CashierWindowQueueForm.cs",
+              "RelativeDocumentMoniker": "Queuing\\CashierWindowQueueForm.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\QueuingForm\\Queuing\\CashierWindowQueueForm.cs [Design]",
+              "RelativeToolTip": "Queuing\\CashierWindowQueueForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:06:58.073Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CashierClass.cs",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\QueuingForm\\Queuing\\CashierClass.cs",
+              "RelativeDocumentMoniker": "Queuing\\CashierClass.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\QueuingForm\\Queuing\\CashierClass.cs",
+              "RelativeToolTip": "Queuing\\CashierClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T04:57:22.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QueuingForm.cs",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\QueuingForm\\Queuing\\QueuingForm.cs",
+              "RelativeDocumentMoniker": "Queuing\\QueuingForm.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\QueuingForm\\Queuing\\QueuingForm.cs",
+              "RelativeToolTip": "Queuing\\QueuingForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T04:54:31.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QueuingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\QueuingForm\\Queuing\\QueuingForm.cs",
+              "RelativeDocumentMoniker": "Queuing\\QueuingForm.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\QueuingForm\\Queuing\\QueuingForm.cs [Design]",
+              "RelativeToolTip": "Queuing\\QueuingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T04:48:59.279Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

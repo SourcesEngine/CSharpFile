@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jerry Cajote\\source\\repos\\frmComputeSalary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B043D43-07E1-4193-8C7B-2CADD58C9C58}|EmployeeApplication\\EmployeeApplication.csproj|C:\\Users\\Jerry Cajote\\source\\repos\\frmComputeSalary\\employeeapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B043D43-07E1-4193-8C7B-2CADD58C9C58}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B043D43-07E1-4193-8C7B-2CADD58C9C58}|EmployeeApplication\\EmployeeApplication.csproj|C:\\Users\\Jerry Cajote\\source\\repos\\frmComputeSalary\\employeeapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B043D43-07E1-4193-8C7B-2CADD58C9C58}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B043D43-07E1-4193-8C7B-2CADD58C9C58}|EmployeeApplication\\EmployeeApplication.csproj|C:\\Users\\Jerry Cajote\\source\\repos\\frmComputeSalary\\employeeapplication\\employeenamespace\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B043D43-07E1-4193-8C7B-2CADD58C9C58}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\employeenamespace\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B043D43-07E1-4193-8C7B-2CADD58C9C58}|EmployeeApplication\\EmployeeApplication.csproj|c:\\users\\jerry cajote\\source\\repos\\frmcomputesalary\\employeeapplication\\employeeinterface\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B043D43-07E1-4193-8C7B-2CADD58C9C58}|EmployeeApplication\\EmployeeApplication.csproj|solutionrelative:employeeapplication\\employeeinterface\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PartTimeEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\frmComputeSalary\\EmployeeApplication\\EmployeeNamespace\\PartTimeEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\EmployeeNamespace\\PartTimeEmployee.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\frmComputeSalary\\EmployeeApplication\\EmployeeNamespace\\PartTimeEmployee.cs",
+              "RelativeToolTip": "EmployeeApplication\\EmployeeNamespace\\PartTimeEmployee.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T06:15:51.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\frmComputeSalary\\EmployeeApplication\\EmployeeInterface\\IEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\EmployeeInterface\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\frmComputeSalary\\EmployeeApplication\\EmployeeInterface\\IEmployee.cs",
+              "RelativeToolTip": "EmployeeApplication\\EmployeeInterface\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T06:11:41.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\frmComputeSalary\\EmployeeApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\frmComputeSalary\\EmployeeApplication\\Form1.cs*",
+              "RelativeToolTip": "EmployeeApplication\\Form1.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T03:47:54.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\frmComputeSalary\\EmployeeApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "EmployeeApplication\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\frmComputeSalary\\EmployeeApplication\\Form1.cs [Design]*",
+              "RelativeToolTip": "EmployeeApplication\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T01:48:06.252Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

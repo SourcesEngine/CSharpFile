@@ -1,0 +1,7 @@
+C:\Users\Jerry Cajote\source\repos\ObjectOfClass\ObjectOfClass\bin\Debug\ObjectOfClass.exe.config
+C:\Users\Jerry Cajote\source\repos\ObjectOfClass\ObjectOfClass\bin\Debug\ObjectOfClass.exe
+C:\Users\Jerry Cajote\source\repos\ObjectOfClass\ObjectOfClass\bin\Debug\ObjectOfClass.pdb
+C:\Users\Jerry Cajote\source\repos\ObjectOfClass\ObjectOfClass\obj\Debug\ObjectOfClass.csproj.AssemblyReference.cache
+C:\Users\Jerry Cajote\source\repos\ObjectOfClass\ObjectOfClass\obj\Debug\ObjectOfClass.csproj.CoreCompileInputs.cache
+C:\Users\Jerry Cajote\source\repos\ObjectOfClass\ObjectOfClass\obj\Debug\ObjectOfClass.exe
+C:\Users\Jerry Cajote\source\repos\ObjectOfClass\ObjectOfClass\obj\Debug\ObjectOfClass.pdb

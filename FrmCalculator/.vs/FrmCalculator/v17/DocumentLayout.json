@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jerry Cajote\\source\\repos\\FrmCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16D4A66D-31EB-476E-927E-9D9A67056F94}|CalculatorApplication\\CalculatorApplication.csproj|c:\\users\\jerry cajote\\source\\repos\\frmcalculator\\calculatorapplication\\frmcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D4A66D-31EB-476E-927E-9D9A67056F94}|CalculatorApplication\\CalculatorApplication.csproj|solutionrelative:calculatorapplication\\frmcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D4A66D-31EB-476E-927E-9D9A67056F94}|CalculatorApplication\\CalculatorApplication.csproj|C:\\Users\\Jerry Cajote\\source\\repos\\FrmCalculator\\calculatorapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D4A66D-31EB-476E-927E-9D9A67056F94}|CalculatorApplication\\CalculatorApplication.csproj|solutionrelative:calculatorapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D4A66D-31EB-476E-927E-9D9A67056F94}|CalculatorApplication\\CalculatorApplication.csproj|C:\\Users\\Jerry Cajote\\source\\repos\\FrmCalculator\\calculatorapplication\\frmcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16D4A66D-31EB-476E-927E-9D9A67056F94}|CalculatorApplication\\CalculatorApplication.csproj|solutionrelative:calculatorapplication\\frmcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\FrmCalculator\\CalculatorApplication\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\FrmCalculator\\CalculatorApplication\\Program.cs",
+              "RelativeToolTip": "CalculatorApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T14:44:30.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\FrmCalculator\\CalculatorApplication\\FrmCalculator.cs",
+              "RelativeDocumentMoniker": "CalculatorApplication\\FrmCalculator.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\FrmCalculator\\CalculatorApplication\\FrmCalculator.cs",
+              "RelativeToolTip": "CalculatorApplication\\FrmCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T14:27:17.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmCalculator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\FrmCalculator\\CalculatorApplication\\FrmCalculator.cs",
+              "RelativeDocumentMoniker": "CalculatorApplication\\FrmCalculator.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\FrmCalculator\\CalculatorApplication\\FrmCalculator.cs [Design]",
+              "RelativeToolTip": "CalculatorApplication\\FrmCalculator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T14:22:18.125Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

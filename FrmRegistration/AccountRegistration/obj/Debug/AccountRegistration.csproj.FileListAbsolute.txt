@@ -1,0 +1,12 @@
+C:\Users\Jerry Cajote\source\repos\FrmRegistration\AccountRegistration\obj\Debug\AccountRegistration.csproj.AssemblyReference.cache
+C:\Users\Jerry Cajote\source\repos\FrmRegistration\AccountRegistration\obj\Debug\AccountRegistration.FrmRegistration.resources
+C:\Users\Jerry Cajote\source\repos\FrmRegistration\AccountRegistration\obj\Debug\AccountRegistration.FrmConfirm.resources
+C:\Users\Jerry Cajote\source\repos\FrmRegistration\AccountRegistration\obj\Debug\AccountRegistration.Properties.Resources.resources
+C:\Users\Jerry Cajote\source\repos\FrmRegistration\AccountRegistration\obj\Debug\AccountRegistration.csproj.GenerateResource.cache
+C:\Users\Jerry Cajote\source\repos\FrmRegistration\AccountRegistration\obj\Debug\AccountRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Jerry Cajote\source\repos\FrmRegistration\AccountRegistration\bin\Debug\AccountRegistration.exe.config
+C:\Users\Jerry Cajote\source\repos\FrmRegistration\AccountRegistration\bin\Debug\AccountRegistration.exe
+C:\Users\Jerry Cajote\source\repos\FrmRegistration\AccountRegistration\bin\Debug\AccountRegistration.pdb
+C:\Users\Jerry Cajote\source\repos\FrmRegistration\AccountRegistration\obj\Debug\AccountRegistration.exe
+C:\Users\Jerry Cajote\source\repos\FrmRegistration\AccountRegistration\obj\Debug\AccountRegistration.pdb
+C:\Users\Jerry Cajote\source\repos\FrmRegistration\AccountRegistration\obj\Debug\AccountRegistration.exe.config

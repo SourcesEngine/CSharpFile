@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jerry Cajote\\source\\repos\\frmGuessingWord\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A99599D6-B883-44D7-86AD-1EAE1C94323A}|WordGuessApplication\\WordGuessApplication.csproj|c:\\users\\jerry cajote\\source\\repos\\frmguessingword\\wordguessapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A99599D6-B883-44D7-86AD-1EAE1C94323A}|WordGuessApplication\\WordGuessApplication.csproj|solutionrelative:wordguessapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A99599D6-B883-44D7-86AD-1EAE1C94323A}|WordGuessApplication\\WordGuessApplication.csproj|c:\\users\\jerry cajote\\source\\repos\\frmguessingword\\wordguessapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A99599D6-B883-44D7-86AD-1EAE1C94323A}|WordGuessApplication\\WordGuessApplication.csproj|solutionrelative:wordguessapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\frmGuessingWord\\WordGuessApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "WordGuessApplication\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\frmGuessingWord\\WordGuessApplication\\Form1.cs*",
+              "RelativeToolTip": "WordGuessApplication\\Form1.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACcAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:13:09.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\frmGuessingWord\\WordGuessApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "WordGuessApplication\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\frmGuessingWord\\WordGuessApplication\\Form1.cs [Design]*",
+              "RelativeToolTip": "WordGuessApplication\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:00:41.793Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

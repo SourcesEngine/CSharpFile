@@ -1,0 +1,13 @@
+C:\Users\Jerry Cajote\source\repos\QueuingForm\Queuing\bin\Debug\Queuing.exe.config
+C:\Users\Jerry Cajote\source\repos\QueuingForm\Queuing\bin\Debug\Queuing.exe
+C:\Users\Jerry Cajote\source\repos\QueuingForm\Queuing\bin\Debug\Queuing.pdb
+C:\Users\Jerry Cajote\source\repos\QueuingForm\Queuing\obj\Debug\Queuing.csproj.AssemblyReference.cache
+C:\Users\Jerry Cajote\source\repos\QueuingForm\Queuing\obj\Debug\Queuing.CashierWindowQueueForm.resources
+C:\Users\Jerry Cajote\source\repos\QueuingForm\Queuing\obj\Debug\Queuing.QueuingForm.resources
+C:\Users\Jerry Cajote\source\repos\QueuingForm\Queuing\obj\Debug\Queuing.Properties.Resources.resources
+C:\Users\Jerry Cajote\source\repos\QueuingForm\Queuing\obj\Debug\Queuing.csproj.GenerateResource.cache
+C:\Users\Jerry Cajote\source\repos\QueuingForm\Queuing\obj\Debug\Queuing.csproj.CoreCompileInputs.cache
+C:\Users\Jerry Cajote\source\repos\QueuingForm\Queuing\obj\Debug\Queuing.exe
+C:\Users\Jerry Cajote\source\repos\QueuingForm\Queuing\obj\Debug\Queuing.pdb
+C:\Users\Jerry Cajote\source\repos\QueuingForm\Queuing\obj\Debug\Queuing.exe.config
+C:\Users\Jerry Cajote\source\repos\QueuingForm\Queuing\obj\Debug\Queuing.CustomerView.resources

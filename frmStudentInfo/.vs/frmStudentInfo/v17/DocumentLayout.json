@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jerry Cajote\\source\\repos\\frmStudentInfo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3DD6EB-DC82-4AE5-9EC8-E647DC33786B}|StudentInfoApplication\\StudentInfoApplication.csproj|C:\\Users\\Jerry Cajote\\source\\repos\\frmStudentInfo\\studentinfoapplication\\studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3DD6EB-DC82-4AE5-9EC8-E647DC33786B}|StudentInfoApplication\\StudentInfoApplication.csproj|solutionrelative:studentinfoapplication\\studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3DD6EB-DC82-4AE5-9EC8-E647DC33786B}|StudentInfoApplication\\StudentInfoApplication.csproj|C:\\Users\\Jerry Cajote\\source\\repos\\frmStudentInfo\\studentinfoapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F3DD6EB-DC82-4AE5-9EC8-E647DC33786B}|StudentInfoApplication\\StudentInfoApplication.csproj|solutionrelative:studentinfoapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3DD6EB-DC82-4AE5-9EC8-E647DC33786B}|StudentInfoApplication\\StudentInfoApplication.csproj|c:\\users\\jerry cajote\\source\\repos\\frmstudentinfo\\studentinfoapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F3DD6EB-DC82-4AE5-9EC8-E647DC33786B}|StudentInfoApplication\\StudentInfoApplication.csproj|solutionrelative:studentinfoapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\frmStudentInfo\\StudentInfoApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "StudentInfoApplication\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\frmStudentInfo\\StudentInfoApplication\\Form1.cs",
+              "RelativeToolTip": "StudentInfoApplication\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T03:20:39.789Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\frmStudentInfo\\StudentInfoApplication\\StudentInfo.cs",
+              "RelativeDocumentMoniker": "StudentInfoApplication\\StudentInfo.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\frmStudentInfo\\StudentInfoApplication\\StudentInfo.cs",
+              "RelativeToolTip": "StudentInfoApplication\\StudentInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T04:54:27.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Jerry Cajote\\source\\repos\\frmStudentInfo\\StudentInfoApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "StudentInfoApplication\\Form1.cs",
+              "ToolTip": "C:\\Users\\Jerry Cajote\\source\\repos\\frmStudentInfo\\StudentInfoApplication\\Form1.cs [Design]",
+              "RelativeToolTip": "StudentInfoApplication\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T03:10:53.551Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

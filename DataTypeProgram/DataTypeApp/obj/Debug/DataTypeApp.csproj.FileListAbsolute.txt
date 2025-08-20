@@ -1,0 +1,7 @@
+C:\Users\Jerry Cajote\source\repos\DataTypeProgram\DataTypeApp\bin\Debug\DataTypeApp.exe.config
+C:\Users\Jerry Cajote\source\repos\DataTypeProgram\DataTypeApp\bin\Debug\DataTypeApp.exe
+C:\Users\Jerry Cajote\source\repos\DataTypeProgram\DataTypeApp\bin\Debug\DataTypeApp.pdb
+C:\Users\Jerry Cajote\source\repos\DataTypeProgram\DataTypeApp\obj\Debug\DataTypeApp.csproj.AssemblyReference.cache
+C:\Users\Jerry Cajote\source\repos\DataTypeProgram\DataTypeApp\obj\Debug\DataTypeApp.csproj.CoreCompileInputs.cache
+C:\Users\Jerry Cajote\source\repos\DataTypeProgram\DataTypeApp\obj\Debug\DataTypeApp.exe
+C:\Users\Jerry Cajote\source\repos\DataTypeProgram\DataTypeApp\obj\Debug\DataTypeApp.pdb

@@ -1,0 +1,10 @@
+C:\Users\Jerry Cajote\source\repos\WindowProgram\WindowApp\bin\Debug\WindowApp.exe.config
+C:\Users\Jerry Cajote\source\repos\WindowProgram\WindowApp\bin\Debug\WindowApp.exe
+C:\Users\Jerry Cajote\source\repos\WindowProgram\WindowApp\bin\Debug\WindowApp.pdb
+C:\Users\Jerry Cajote\source\repos\WindowProgram\WindowApp\obj\Debug\WindowApp.csproj.AssemblyReference.cache
+C:\Users\Jerry Cajote\source\repos\WindowProgram\WindowApp\obj\Debug\WindowApp.Form1.resources
+C:\Users\Jerry Cajote\source\repos\WindowProgram\WindowApp\obj\Debug\WindowApp.Properties.Resources.resources
+C:\Users\Jerry Cajote\source\repos\WindowProgram\WindowApp\obj\Debug\WindowApp.csproj.GenerateResource.cache
+C:\Users\Jerry Cajote\source\repos\WindowProgram\WindowApp\obj\Debug\WindowApp.csproj.CoreCompileInputs.cache
+C:\Users\Jerry Cajote\source\repos\WindowProgram\WindowApp\obj\Debug\WindowApp.exe
+C:\Users\Jerry Cajote\source\repos\WindowProgram\WindowApp\obj\Debug\WindowApp.pdb

@@ -1,0 +1,11 @@
+C:\Users\Jerry Cajote\source\repos\frmLoginAccount\CashierApplication\bin\Debug\CashierApplication.exe.config
+C:\Users\Jerry Cajote\source\repos\frmLoginAccount\CashierApplication\bin\Debug\CashierApplication.exe
+C:\Users\Jerry Cajote\source\repos\frmLoginAccount\CashierApplication\bin\Debug\CashierApplication.pdb
+C:\Users\Jerry Cajote\source\repos\frmLoginAccount\CashierApplication\obj\Debug\CashierApplication.csproj.AssemblyReference.cache
+C:\Users\Jerry Cajote\source\repos\frmLoginAccount\CashierApplication\obj\Debug\CashierApplication.frmLoginAccount.resources
+C:\Users\Jerry Cajote\source\repos\frmLoginAccount\CashierApplication\obj\Debug\CashierApplication.frmPurchaseDiscountedItem.resources
+C:\Users\Jerry Cajote\source\repos\frmLoginAccount\CashierApplication\obj\Debug\CashierApplication.Properties.Resources.resources
+C:\Users\Jerry Cajote\source\repos\frmLoginAccount\CashierApplication\obj\Debug\CashierApplication.csproj.GenerateResource.cache
+C:\Users\Jerry Cajote\source\repos\frmLoginAccount\CashierApplication\obj\Debug\CashierApplication.csproj.CoreCompileInputs.cache
+C:\Users\Jerry Cajote\source\repos\frmLoginAccount\CashierApplication\obj\Debug\CashierApplication.exe
+C:\Users\Jerry Cajote\source\repos\frmLoginAccount\CashierApplication\obj\Debug\CashierApplication.pdb
