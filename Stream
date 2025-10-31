@@ -1,4 +1,6 @@
 
+
+
 Registration.cs
 
 using System;
@@ -118,15 +120,15 @@ namespace OpenTextFileApp
         // Method to find and load the student record from a file
         private void FindStudentRecord()
         {
-            openFileDialog1.InitialDirectory = @"C:\"; 
-            openFileDialog1.Title = "Browse Text Files"; 
-            openFileDialog1.DefaultExt = "txt"; 
-            openFileDialog1.Filter = "txt files (*.txt)|*.txt|All files (*.*)|*.*"; 
+            openFileDialog1.InitialDirectory = @"C:\";
+            openFileDialog1.Title = "Browse Text Files";
+            openFileDialog1.DefaultExt = "txt";
+            openFileDialog1.Filter = "txt files (*.txt)|*.txt|All files (*.*)|*.*";
 
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
             {
                 string path = openFileDialog1.FileName;
-                
+
                 using (StreamReader reader = new StreamReader(path))
                 {
                     string line;
@@ -181,16 +183,16 @@ namespace OpenTextFileApp
         private void DisplayToList()
         {
             // Initialize the OpenFileDialog
-            openFileDialog1.InitialDirectory = @"C:\"; 
-            openFileDialog1.Title = "Browse Text Files"; 
-            openFileDialog1.DefaultExt = "txt"; 
-            openFileDialog1.Filter = "txt files (*.txt)|*.txt|All files (*.*)|*.*"; 
-            
+            openFileDialog1.InitialDirectory = @"C:\";
+            openFileDialog1.Title = "Browse Text Files";
+            openFileDialog1.DefaultExt = "txt";
+            openFileDialog1.Filter = "txt files (*.txt)|*.txt|All files (*.*)|*.*";
+
             // Show the dialog and get the file path
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
             {
                 string path = openFileDialog1.FileName;
-                
+
                 // Read the file using StreamReader
                 using (StreamReader streamReader = File.OpenText(path))
                 {
