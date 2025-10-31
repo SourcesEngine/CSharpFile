@@ -1,0 +1,208 @@
+
+Registration.cs
+
+using System;
+using System.IO;
+using System.Windows.Forms;
+
+namespace RegistrationApp
+{
+    public partial class FrmRegistration : Form
+    {
+        public FrmRegistration()
+        {
+            InitializeComponent();
+        }
+
+        // Register Button Click Event
+        private void btnRegister_Click(object sender, EventArgs e)
+        {
+            // Collecting data from the form
+            string studentNo = txtStudentNo.Text;
+            string program = cmbProgram.SelectedItem?.ToString(); // Check if an item is selected
+            string lastName = txtLastName.Text;
+            string firstName = txtFirstName.Text;
+            string mi = txtMI.Text;
+            string age = txtAge.Text;
+            string gender = cmbGender.SelectedItem?.ToString(); // Check if an item is selected
+            string birthday = dtpBirthday.Value.ToShortDateString();
+            string contactNo = txtContactNo.Text;
+
+            // Validate inputs
+            if (string.IsNullOrEmpty(studentNo) || string.IsNullOrEmpty(lastName) || string.IsNullOrEmpty(firstName) ||
+                string.IsNullOrEmpty(program) || string.IsNullOrEmpty(gender))
+            {
+                MessageBox.Show("Please fill all required fields.");
+                return; // Stop the method if validation fails
+            }
+
+            // Creating the record string
+            string record = $"Student No: {studentNo}, Program: {program}, Name: {firstName} {mi} {lastName}, " +
+                            $"Age: {age}, Gender: {gender}, Birthday: {birthday}, Contact No: {contactNo}";
+
+            // File path to save the records (you can change this path)
+            string filePath = Path.Combine(Application.StartupPath, "student_records.txt");
+
+            try
+            {
+                // Writing the record to a file
+                using (StreamWriter writer = new StreamWriter(filePath, true))
+                {
+                    writer.WriteLine(record);
+                }
+
+                // Clear the textboxes after registration
+                txtStudentNo.Clear();
+                txtLastName.Clear();
+                txtFirstName.Clear();
+                txtMI.Clear();
+                txtAge.Clear();
+                txtContactNo.Clear();
+                cmbProgram.SelectedIndex = -1;
+                cmbGender.SelectedIndex = -1;
+                dtpBirthday.Value = DateTime.Now;
+
+                // Show success message
+                MessageBox.Show("Student Registered Successfully!");
+            }
+            catch (IOException ioEx)
+            {
+                // Handle file IO exceptions (e.g., file permissions)
+                MessageBox.Show($"An error occurred while saving the file: {ioEx.Message}");
+            }
+            catch (Exception ex)
+            {
+                // Handle any other general exceptions
+                MessageBox.Show($"An unexpected error occurred: {ex.Message}");
+            }
+        }
+
+        // Records Button Click Event
+        private void btnRecords_Click(object sender, EventArgs e)
+        {
+            string filePath = Path.Combine(Application.StartupPath, "student_records.txt");
+            if (File.Exists(filePath))
+            {
+                string records = File.ReadAllText(filePath);
+                MessageBox.Show(records, "Student Records");
+            }
+            else
+            {
+                MessageBox.Show("No records found.", "Student Records");
+            }
+        }
+    }
+}
+
+StudentRecords.cs
+
+using System;
+using System.IO;
+using System.Windows.Forms;
+
+namespace OpenTextFileApp
+{
+    public partial class FrmStudentRecord : Form
+    {
+        public FrmStudentRecord()
+        {
+            InitializeComponent();
+        }
+
+        // Open the file and display content in ListView
+        private void btnFind_Click(object sender, EventArgs e)
+        {
+            FindStudentRecord();
+        }
+
+        // Method to find and load the student record from a file
+        private void FindStudentRecord()
+        {
+            openFileDialog1.InitialDirectory = @"C:\"; 
+            openFileDialog1.Title = "Browse Text Files"; 
+            openFileDialog1.DefaultExt = "txt"; 
+            openFileDialog1.Filter = "txt files (*.txt)|*.txt|All files (*.*)|*.*"; 
+
+            if (openFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                string path = openFileDialog1.FileName;
+                
+                using (StreamReader reader = new StreamReader(path))
+                {
+                    string line;
+                    lvStudentRecords.Items.Clear(); // Clear existing items
+                    while ((line = reader.ReadLine()) != null)
+                    {
+                        lvStudentRecords.Items.Add(line); // Add each line to ListView
+                    }
+                }
+            }
+        }
+
+        // Button to upload the file (clear ListView and show success message)
+        private void btnUpload_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Successfully Uploaded!");
+            lvStudentRecords.Items.Clear(); // Clear ListView
+        }
+
+        // Register button to return to FrmRegistration
+        private void btnRegister_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            FrmRegistration registrationForm = new FrmRegistration();
+            registrationForm.Show();
+        }
+    }
+}
+
+OpenTextFile.cs
+
+using System;
+using System.IO;
+using System.Windows.Forms;
+
+namespace OpenTextFileApp
+{
+    public partial class FrmOpenTextFile : Form
+    {
+        public FrmOpenTextFile()
+        {
+            InitializeComponent();
+        }
+
+        // Button Click Event to open the file dialog
+        private void btnOpen_Click(object sender, EventArgs e)
+        {
+            DisplayToList();
+        }
+
+        // Method to display the text file content to ListView
+        private void DisplayToList()
+        {
+            // Initialize the OpenFileDialog
+            openFileDialog1.InitialDirectory = @"C:\"; 
+            openFileDialog1.Title = "Browse Text Files"; 
+            openFileDialog1.DefaultExt = "txt"; 
+            openFileDialog1.Filter = "txt files (*.txt)|*.txt|All files (*.*)|*.*"; 
+            
+            // Show the dialog and get the file path
+            if (openFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                string path = openFileDialog1.FileName;
+                
+                // Read the file using StreamReader
+                using (StreamReader streamReader = File.OpenText(path))
+                {
+                    string _getText = "";
+                    lvShowText.Items.Clear();  // Clear any existing items
+                    while ((_getText = streamReader.ReadLine()) != null)
+                    {
+                        // Add each line of text to ListView
+                        lvShowText.Items.Add(_getText);
+                    }
+                }
+            }
+        }
+    }
+}
